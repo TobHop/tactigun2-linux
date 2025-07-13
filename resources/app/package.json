@@ -1,0 +1,5 @@
+{
+    "name": "tactigun2-stable",
+    "main": "electron-main.js",
+    "version": "1.0.0"
+}
