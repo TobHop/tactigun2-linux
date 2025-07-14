@@ -1,3 +1,4 @@
 #!/bin/bash
-cd "$(dirname "$0")"
-./tactigun2-stable --no-sandboxing
+cd "$SNAP"
+
+./tactigun2
